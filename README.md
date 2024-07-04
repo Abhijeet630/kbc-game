@@ -1,1 +1,1 @@
-# kbc-game use puthon
+# kbc-game use python
